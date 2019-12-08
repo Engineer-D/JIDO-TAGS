@@ -12,13 +12,14 @@
 
 # Problem
 
-Inadequate information on how to get physical instructors or experts
-that are good at a particular course of study or enterpreneural skillset.
-Tutorial centres not being able to get their target audience for their various programs and service
+With increased rate of armed robbery and kidnapping around, the safety of citizens are threatened.
+Imagine a situation where one is a victime of this and his/her location is unknown.
 
 # Proposed Solution
 
-A smart watch that protects citizens from robbery.
+A smart watch that protects citizens from robbery. It could tell when you are scared,
+send your location to the nearest police station and to your next of kin
+and contains a kind of teaser.
 
 # Proposed Stack
 
@@ -26,11 +27,10 @@ Django, Arduino, C, Mysql
 
 # Benefit
 
-- To provide a local connect among the above entities so as to
-improve education in Nigeria.
-- A good resource for students to find where to learn and who to learn from and also for parent to find instructors/teachers for their kids.
-- Provide revenue for instructors/tutorial centers/work-space owners.
-- Reduce rate of unemployment in Nigeria.
+- 
+- 
+- 
+- 
 
 
 # Top-level directory layout
