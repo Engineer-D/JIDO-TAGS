@@ -36,9 +36,9 @@ improve education in Nigeria.
 # Top-level directory layout
 
     .
-    ├── data                    # GraphQl files (alternatively `graphql` or `server`)
-    ├── public                  # Compiled files (alternatively `dist`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├──                     
+    ├──                   
+    ├──                      
     └── README.md   
 
 
@@ -47,64 +47,9 @@ improve education in Nigeria.
 ### Clone the repository 
 
 ```
-git clone https://github.com/Ahmzyjazzy/naijahacks-lazyload.git
+git clone https://github.com/Engineer-D/JIDO-TAGS.git
 ```
-
-### Install all dependencies
-
-Using yarn
-
-```
-yarn install
-```
-
-Using npm
-
-```
-npm install
-```
-
-### Start watching the file and changes
-
-Using yarn
-
-```
-yarn run watch
-```
-
-Using npm
-
-```
-npm run watch
-```
-
-### Start the development server to serve static files and connect to database
-
-Using yarn
-
-```
-yarn run serve
-```
-
-Using npm
-
-```
-npm run serve
-```
-
-### Start project to test from the browser
-
-Using yarn
-
-```
-yarn start
-```
-
-Using npm
-
-```
-npm start
-```            
+           
 
 
 
