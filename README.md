@@ -37,5 +37,11 @@ Arduino, C, Django, HTML, CSS, JavaScript
     └──
     └──
 
-## Devpost
-<p>Access our project on devpost here: <a href=https://devpost.com/software/jido-tags>devpost</a></p>
+## Project Links
+<ul>
+<li>Devpost: <a href=https://devpost.com/software/jido-tags>Jido-Tags</a></li>
+<li>Live server: <a href=https://tripleeonline.xyz>tripleeonline</a></li>
+<li>Github repo: <a href=https://github.com/Engineer-D/JIDO-TAGS>Jido-Tags</a></li>
+<li>Animated demo: <a href=https://www.youtube.com/watch?v=zgqsXGMJnwc>Jido Demo</a></li>
+<li>Live demo: <a href=https://www.youtube.com/watch?v=ij5AY6YwevI>Jido Demo</a></li>
+</ul>
