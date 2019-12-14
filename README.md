@@ -33,9 +33,14 @@ Arduino, C, Django, HTML, CSS, JavaScript
 
 # Top-level directory layout
     └── README.md
-    └──
-    └──
-    └──
+    └── alpha
+    └── auth_part
+    └── hardware
+    └── jidos
+    └── sensors
+    └── manage.py
+    └── project_summary.pdf
+    └── requirements.txt
 
 ## Project Links
 <ul>
